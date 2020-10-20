@@ -1,0 +1,5 @@
+{
+    "dsn": "mysql:host=localhost;dbname=movies;chartset=utf8",
+    "user": "root",
+    "pswd": ""
+}
