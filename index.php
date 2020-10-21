@@ -11,6 +11,26 @@ $obj = json_decode($contents);
 
 define('ENV', $obj->env);
 
+function errorlogger(
+    $errno,
+    $errstr,
+    $errfile,
+    $errline
+) {
+    $log = $errstr . " " .  $errfile . " " . $errline . "\n";
+    file_put_contents(__DIR__ . '/log/'.date('h:m:s').'.log', $log, FILE_APPEND);
+}
+
+ini_set('display_errors', 0);
+set_error_handler("errorlogger");
+
+register_shutdown_function(function (){
+    $error = error_get_last();
+
+    if($error) {
+        errorlogger($error['type'], $error['message'], $error['file'], $error['line']);
+    }
+});
 
 
 require ('src/controller/Add.php');
