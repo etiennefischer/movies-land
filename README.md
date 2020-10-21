@@ -12,5 +12,6 @@ __
 ## Contributeur
 
 * Etienne Fischer
+* Delfine Sikora
 
 
