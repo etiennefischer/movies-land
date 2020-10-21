@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c4e5ccf4-612f-49da-b4d8-0d80c75cd521" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:07.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:26.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:27.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:29.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:37.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:43.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:50.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:51.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:52.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:55.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:56.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01:10:59.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/12:10:07.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/12:10:20.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/php.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603273355570</updated>
-      <workItem from="1603273357407" duration="4083000" />
+      <workItem from="1603273357407" duration="4220000" />
     </task>
     <servers />
   </component>
