@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /src/service
 Disallow: /public/css
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: http://etienne-f.alwaysdata.net/sitemap.xml
