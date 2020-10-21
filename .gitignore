@@ -1,3 +1,4 @@
 config/prod/api.json
 config/prod/db.json
 log/*.log
+.idea
