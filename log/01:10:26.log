@@ -1,4 +1,0 @@
-Uncaught Error: Class 'Toto' not found in /opt/lampp/htdocs/Movies Land/index.php:35
-Stack trace:
-#0 {main}
-  thrown /opt/lampp/htdocs/Movies Land/index.php 35
